@@ -10,7 +10,6 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
-    <dependencyManagement>
         <dependencies>
             <dependency>
                 <groupId>com.xuecheng</groupId>
@@ -18,5 +17,4 @@
                 <version>0.0.1-SNAPSHOT</version>
             </dependency>
         </dependencies>
-    </dependencyManagement>
 </project>
